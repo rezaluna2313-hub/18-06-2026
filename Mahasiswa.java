@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ervan180626;
+package rza180626;
 
 /**
  *
- * @author LABSIDOSEN
+ * @author LAB-SI-PC
  */
 public class Mahasiswa {
     private String nim;
