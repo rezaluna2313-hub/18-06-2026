@@ -10,7 +10,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author LABSIDOSEN
+ * @author LAB-SI-PC
  */
 public class FormMahasiswa extends javax.swing.JFrame {
 
